@@ -1,0 +1,6 @@
+# Requirements for AI Exam Generator
+# No external libraries needed for basic functionality
+
+# Built-in modules used:
+# random
+# pathlib
